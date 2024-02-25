@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+
+#boxes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 15%;
+    
+}
+
+h1{ 
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    color: darkmagenta;
+    
+}
+
+#guru{
+    color: blue;
+    height: 50px;
+    width: 50px;
+    
+}
+
+#guru1{
+    color: blue;
+    height: 50px;
+    width: 50px;
+    
+}
+
+#guru2{
+    color: blue;
+    height: 50px;
+    width: 50px;
+    
+}
